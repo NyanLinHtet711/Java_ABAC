@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Build folders
+out/
+bin/
+target/
